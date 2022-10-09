@@ -1,0 +1,1 @@
+I converted the file to pdf but I dont know why some of the things got messed up like the allignment. Everything worked perfectly in the ipynb file.
